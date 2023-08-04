@@ -1,0 +1,2 @@
+new file master here
+This line from feature1 branch
